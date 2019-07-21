@@ -3,8 +3,8 @@
 $name = "Slava";
 $age = 50;
 
-echo '"Меня зовут ', $name, '"<br />';
+echo '"Меня зовут ', $name, '"';
 
-echo '"Мне ', $age, ' лет"<br />';
+echo '"Мне ', $age, ' лет"';
 
 echo '“!|\\/\'"';
